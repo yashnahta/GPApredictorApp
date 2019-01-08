@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GPA predictor</string>
+    <string-array name="grade">
+        <item>A</item>
+        <item>AB</item>
+        <item>B</item>
+        <item>BC</item>
+        <item>C</item>
+        <item>CD</item>
+        <item>D</item>
+        <item>F</item>
+    </string-array>
+</resources>
